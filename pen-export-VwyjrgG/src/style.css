@@ -1,0 +1,13 @@
+body {
+  padding: 20px;
+}
+
+.progress {
+  max-width: 400px;
+}
+
+html { box-sizing: border-box; }
+*, *::before, *::after { box-sizing: inherit; }
+
+body { font-size: 100%; } /* Controls Size */
+
